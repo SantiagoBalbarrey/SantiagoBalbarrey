@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santiago Balbarrey
 
-### Data Analytics | Business Intelligence | Sports Analytics | Qlik Sense & Power BI
+### Data Analytics | Business Intelligence | Perfomance Sports Analytics | Qlik Sense & Power BI
 
 I'm a data analytics specialist focused on transforming raw information into clear, actionable insights.  
 I work with BI tools, ETL pipelines, and data modeling to build dashboards and analytical products that support decision‑making.
