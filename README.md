@@ -13,7 +13,7 @@ I’m especially passionate about **sports analytics**, particularly rugby, and 
 
 - **Business Intelligence:** Qlik Sense, Power BI  
 - **Data Modeling & ETL:** Qlik Script, SQL, Snowflake  
-- **Programming:** Python (data analysis), JavaScript (basics)  
+- **Programming:** Python , JavaScript  
 - **Databases:** MySQL, PostgreSQL  
 - **Version Control:** Git & GitHub  
 - **Other:** Dashboard design, KPI definition, documentation, automation
