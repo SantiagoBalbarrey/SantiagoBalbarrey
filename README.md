@@ -37,7 +37,6 @@ Additional dashboards, ETL scripts, and analytics experiments.
 
 ## 🌍 About Me
 
-- Based in **Europe (Germany / Berlin)**  
 - Background in **Agricultural Engineering**, now fully focused on **Data & BI**  
 - Passionate about **sports analytics**, dashboard design, and workflow optimization  
 - Always building new projects and improving my portfolio
