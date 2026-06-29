@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Santiago Balbarrey
 
-### Data Analytics | Business Intelligence | Perfomance Sports Analytics 
+### Data Analytics | Business Intelligence | Perfomance Analytics 
 
 I'm a data analytics specialist focused on transforming raw information into clear, actionable insights.  
 I work with BI tools, ETL pipelines, and data modeling to build dashboards and analytical products that support decision‑making.
