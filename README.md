@@ -6,7 +6,7 @@ I spent 8+ years running a mixed crop and cattle operation in Buenos Aires provi
 
 Today I turn field and pitch experience into data products: ETL pipelines, data models and dashboards that help people make better decisions.
 
-📍 Berlin · Open to Data Analyst / BI roles in AgTech and sports analytics
+💼 Open to Data Analyst / BI Developer roles in AgTech and sports analytics
 
 ---
 
