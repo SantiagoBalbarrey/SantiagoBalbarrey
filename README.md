@@ -18,6 +18,8 @@ Public stats centre for an Argentine rugby tournament (2025 + 2026): 56 matches,
 
 `Python` `LongoMatch` `JavaScript` `GitHub Pages`
 
+<img src="https://raw.githubusercontent.com/SantiagoBalbarrey/TRP-A-analytics/main/assets/overview.jpg" width="32%"> <img src="https://raw.githubusercontent.com/SantiagoBalbarrey/TRP-A-analytics/main/assets/team.jpg" width="32%"> <img src="https://raw.githubusercontent.com/SantiagoBalbarrey/TRP-A-analytics/main/assets/match.jpg" width="32%">
+
 ### 🏉 [Rugby Performance Analytics](https://github.com/SantiagoBalbarrey/Perfomance-Analyst-Los-Cardos-Rugby-Club)
 
 LongoMatch event data modeled into a star schema, with 6 Qlik dashboards for a club's coaching staff.
