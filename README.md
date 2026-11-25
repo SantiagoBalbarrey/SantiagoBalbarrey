@@ -26,6 +26,8 @@ LongoMatch event data modeled into a star schema, with 6 Qlik dashboards for a c
 
 `Qlik Sense` `LongoMatch`
 
+<img src="https://raw.githubusercontent.com/SantiagoBalbarrey/Perfomance-Analyst-Los-Cardos-Rugby-Club/master/dashboards/Torneo%20UNRMDP%20%20-%20Dashboard.png" width="32%"> <img src="https://raw.githubusercontent.com/SantiagoBalbarrey/Perfomance-Analyst-Los-Cardos-Rugby-Club/master/dashboards/Torneo%20UNRMDP%20%20-%20Attacking%20Perfomance.png" width="32%"> <img src="https://raw.githubusercontent.com/SantiagoBalbarrey/Perfomance-Analyst-Los-Cardos-Rugby-Club/master/dashboards/Torneo%20UNRMDP%20%20-%20Set%20Piece%20Aquisition.png" width="32%">
+
 ### 🌱 [Crop Rotation Analytics](https://github.com/SantiagoBalbarrey/Crop_rotation)
 
 Turns a hand-kept rotation spreadsheet (45 lots × 15 seasons) into a tidy dataset of crop, yield and weather events, ready for Qlik analysis.
@@ -37,6 +39,8 @@ Turns a hand-kept rotation spreadsheet (45 lots × 15 seasons) into a tidy datas
 MySQL + Excel → layered QVDs → star schema → KPI dashboards.
 
 `Qlik Sense Cloud` `MySQL`
+
+<img src="https://raw.githubusercontent.com/SantiagoBalbarrey/Qlik_CONTOSO/main/4.%20Dashboards/Dashboard.png" width="48%"> <img src="https://raw.githubusercontent.com/SantiagoBalbarrey/Qlik_CONTOSO/main/4.%20Dashboards/Analisis%20Clientes.png" width="48%">
 
 ---
 
